@@ -1,2 +1,2 @@
 My Portfolio Website. 
-Based on Ryan Fitzgerald portfolio template.
+Based on Ryan Fitzgerald devportfolio template.
