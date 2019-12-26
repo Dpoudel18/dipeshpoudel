@@ -1,3 +1,3 @@
 # My Portfolio Website
 
-Based on Ryan Fitzgerald [devportfolio](https://github.com/RyanFitzgerald/devportfolio) template.
+Based on Ryan Fitzgerald's [devportfolio](https://github.com/RyanFitzgerald/devportfolio) template.
